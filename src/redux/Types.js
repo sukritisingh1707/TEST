@@ -1,0 +1,4 @@
+export const LIST_ACTIONS = {
+    LIST_SUCCESS: "LIST_SUCCESS",
+    LIST_FAILURE: "LIST_FAILURE",
+};
